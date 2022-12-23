@@ -48,9 +48,5 @@ if __name__ == "__main__":
             print("Invalid input.")
             quit(1)
 
-<<<<<<< HEAD
     sorted_list = mergesort(value_list)
     print(sorted_list)
-=======
-    debug_print(value_list=value_list)
->>>>>>> parent of dd8c56c (Merge-sort)
